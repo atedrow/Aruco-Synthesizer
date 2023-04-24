@@ -1,0 +1,16 @@
+Name: Alexnader Tedrow
+Data: 4/26/2022
+Class: CPSC 4820
+
+This is my final project of an Aruco Marker Synthizer
+
+Program requirements:
+  Program requires OpenCV2, numpy, wave, simpleaudio, struct.pack, and scipy.signal
+
+Notes:
+  there may be issues on other machines when opening the webcam
+  the Capture may need to be changed from "/dev/video0" to 0 depending
+  on the computer
+
+  Make sure to update the calibration video for each webcam too
+  Calibration video can be titled "calibrate.mp4" so no code needs to be changed
